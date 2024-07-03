@@ -22,5 +22,6 @@ public class Company {
     Long id;
     String name;
     String description;
+    Double rating;
 
 }
